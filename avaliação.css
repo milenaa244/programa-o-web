@@ -1,0 +1,14 @@
+.tipos-cogumelos{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+    margin-top: 20px;
+}
+.card{
+    text-align: left;
+}
+.card img{
+    width: 180px;
+    display: block;
+    margin-top: 10px;
+}
